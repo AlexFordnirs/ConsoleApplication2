@@ -1,0 +1,1317 @@
+﻿  ConsoleApplication2.cpp
+c:\consoleapplication2\view.h(23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\view.h(27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\view.h(31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\view.h(34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(42): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+c:\consoleapplication2\consoleapplication2.cpp(324): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(366): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(367): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(377): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(385): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(488): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(580): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(604): warning C4305: =: усечение из "double" в "float"
+c:\consoleapplication2\consoleapplication2.cpp(605): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(612): warning C4305: =: усечение из "double" в "float"
+c:\consoleapplication2\consoleapplication2.cpp(613): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(620): warning C4305: =: усечение из "double" в "float"
+c:\consoleapplication2\consoleapplication2.cpp(621): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(628): warning C4305: =: усечение из "double" в "float"
+c:\consoleapplication2\consoleapplication2.cpp(629): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(666): warning C4305: аргумент: усечение из "double" в "float"
+c:\consoleapplication2\consoleapplication2.cpp(672): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(673): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(694): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(708): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(721): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(734): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(747): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(760): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(773): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(786): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(799): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(812): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(825): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(838): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(851): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(864): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(877): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(890): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(903): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(916): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(929): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(942): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(955): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(968): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(981): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(994): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(996): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(996): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1006): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1007): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1010): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1012): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1017): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1017): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1019): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1020): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1022): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1023): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1024): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1025): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1032): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1033): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1037): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1039): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1045): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1045): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1047): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1048): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1050): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1051): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1052): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1053): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1059): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1060): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1063): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1065): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1070): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1070): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1072): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1073): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1075): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1076): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1077): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1078): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1084): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1085): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1089): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1091): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1095): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1095): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1097): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1098): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1100): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1101): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1102): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1103): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1113): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1113): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1157): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1158): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1161): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1163): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1168): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1168): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1170): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1171): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1173): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1174): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1175): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1176): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1183): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1184): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1188): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1190): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1196): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1196): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1198): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1199): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1201): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1202): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1203): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1204): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1210): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1211): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1214): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1216): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1221): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1221): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1223): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1224): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1226): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1227): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1228): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1229): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1235): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1236): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1240): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1242): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1246): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1246): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1248): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1249): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1251): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1252): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1253): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1254): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1262): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1264): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1264): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1278): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1279): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1282): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1284): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1289): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1289): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1291): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1292): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1294): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1295): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1296): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1297): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1304): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1305): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1309): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1311): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1317): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1317): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1319): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1320): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1322): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1323): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1324): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1325): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1331): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1332): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1335): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1337): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1342): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1342): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1344): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1345): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1347): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1348): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1349): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1350): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1356): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1357): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1361): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1363): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1367): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1367): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1369): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1370): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1372): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1373): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1374): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1375): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1383): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1385): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1385): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1399): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1400): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1403): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1405): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1410): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1410): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1412): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1413): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1415): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1416): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1417): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1418): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1425): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1426): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1430): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1432): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1438): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1438): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1440): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1441): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1443): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1444): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1445): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1446): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1452): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1453): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1456): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1458): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1463): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1463): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1465): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1466): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1468): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1469): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1470): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1471): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1477): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1478): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1482): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1484): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1488): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1488): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1490): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1491): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1493): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1494): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1495): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1496): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1504): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1506): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1506): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1519): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1520): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1524): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1526): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1531): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1531): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1533): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1534): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1536): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1537): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1540): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1541): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1548): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1549): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1554): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1556): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1562): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1562): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1564): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1565): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1568): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1569): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1570): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1571): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1577): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1578): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1582): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1584): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1589): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1589): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1591): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1592): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1594): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1595): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1596): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1597): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1603): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1604): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1609): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1611): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1615): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1615): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1617): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1618): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1620): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1621): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1622): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1623): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\consoleapplication2\consoleapplication2.cpp(1659): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1873): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\consoleapplication2\consoleapplication2.cpp(1915): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1928): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1941): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1954): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1967): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1980): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(1993): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2006): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2019): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2032): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2054): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2070): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2086): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2102): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(2118): warning C4018: <: несоответствие типов со знаком и без знака
+c:\consoleapplication2\consoleapplication2.cpp(145): warning C4715: OrbitMob: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> C:\ConsoleApplication2\Debug\ConsoleApplication2.exe
